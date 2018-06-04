@@ -1,0 +1,5 @@
+c:\BegVCSharp\Part2\Ch11ClassLib\Ch11ClassLib\bin\Debug\Ch11ClassLib.dll
+c:\BegVCSharp\Part2\Ch11ClassLib\Ch11ClassLib\bin\Debug\Ch11ClassLib.pdb
+c:\BegVCSharp\Part2\Ch11ClassLib\Ch11ClassLib\obj\Debug\Ch11ClassLib.csprojResolveAssemblyReference.cache
+c:\BegVCSharp\Part2\Ch11ClassLib\Ch11ClassLib\obj\Debug\Ch11ClassLib.dll
+c:\BegVCSharp\Part2\Ch11ClassLib\Ch11ClassLib\obj\Debug\Ch11ClassLib.pdb
