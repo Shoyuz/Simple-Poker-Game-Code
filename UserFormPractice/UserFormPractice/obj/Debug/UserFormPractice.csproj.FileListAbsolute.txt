@@ -1,0 +1,9 @@
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\bin\Debug\UserFormPractice.exe.config
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\bin\Debug\UserFormPractice.exe
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\bin\Debug\UserFormPractice.pdb
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\obj\Debug\UserFormPractice.csprojResolveAssemblyReference.cache
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\obj\Debug\UserFormPractice.Form1.resources
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\obj\Debug\UserFormPractice.Properties.Resources.resources
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\obj\Debug\UserFormPractice.csproj.GenerateResource.Cache
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\obj\Debug\UserFormPractice.exe
+c:\BegVCSharp\Part2\UserFormPractice\UserFormPractice\obj\Debug\UserFormPractice.pdb
